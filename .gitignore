@@ -1,6 +1,7 @@
 # Folders
 ne_110m_admin_0_countries/
 venv/
+__pycache__/
 
 # Zip files
 ne_110m_admin_0_countries.zip
