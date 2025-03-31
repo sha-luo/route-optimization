@@ -1,0 +1,19 @@
+# Input files
+input:
+  locations_file: "input/locations.csv"
+  demand_file: "input/demand.csv"
+
+# Output files
+output:
+  info_log: "output/info.log"
+  routes_file: "output/optimal_routes.txt"
+  network_viz_file: "output/network_visualization.html"
+  optimal_values_plot: "output/optimal_values.png"
+
+# Model parameters
+model:
+  max_iterations: 100
+  max_empty_miles: 500  # maximum allowed empty miles between locations
+  visualization:
+    figure_width: 10
+    figure_height: 6 

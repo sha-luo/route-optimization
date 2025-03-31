@@ -1,0 +1,306 @@
+Reading locations from file...
+Creating network...
+Starting column generation...
+========================================== Iteration 0 ==========================================
+optimal_value: 22163114.271079216
+route added: dc0_store19_vendor12_store32_vendor4_store11_vendor1_dc2_store11_vendor1_dc0
+========================================== Iteration 1 ==========================================
+optimal_value: 21937185.765242677
+route added: dc0_store34_vendor4_store11_vendor1_dc2_store2_vendor16_store19_vendor5_dc0
+========================================== Iteration 2 ==========================================
+optimal_value: 21622437.98783942
+route added: dc0_store14_vendor11_dc0_store14_vendor12_store16_vendor18_store23_vendor16_dc0
+========================================== Iteration 3 ==========================================
+optimal_value: 21313244.273765102
+route added: dc0_store28_vendor4_store11_vendor1_dc4_store37_vendor4_store11_vendor16_dc0
+========================================== Iteration 4 ==========================================
+optimal_value: 21224672.22459614
+route added: dc0_store19_vendor5_dc0_store19_vendor1_store17_vendor14_store19_vendor5_dc0
+========================================== Iteration 5 ==========================================
+optimal_value: 21166239.604226556
+route added: dc0_store35_vendor1_dc2_store11_vendor1_store17_vendor4_store9_vendor11_dc0
+========================================== Iteration 6 ==========================================
+optimal_value: 20916571.652545795
+route added: dc0_store28_vendor12_store32_vendor4_store9_vendor16_dc2_store11_vendor1_dc0
+========================================== Iteration 7 ==========================================
+optimal_value: 20843277.28111647
+route added: dc0_store28_vendor4_store9_vendor1_dc2_store29_vendor4_store9_vendor2_dc0
+========================================== Iteration 8 ==========================================
+optimal_value: 20720882.144126415
+route added: dc0_store34_vendor6_store8_vendor18_store23_vendor16_dc2_store28_vendor11_dc0
+========================================== Iteration 9 ==========================================
+optimal_value: 20648585.499339994
+route added: dc0_store35_vendor1_dc4_store11_vendor1_store17_vendor14_store19_vendor5_dc0
+========================================== Iteration 10 ==========================================
+optimal_value: 20504698.29096703
+route added: dc0_store14_vendor16_store19_vendor16_dc2_store11_vendor1_store17_vendor11_dc0
+========================================== Iteration 11 ==========================================
+optimal_value: 20391659.66606954
+route added: dc0_store28_vendor16_dc2_store29_vendor4_store21_vendor4_store21_vendor17_dc0
+========================================== Iteration 12 ==========================================
+optimal_value: 20272320.09224317
+route added: dc0_store14_vendor3_store0_vendor14_store19_vendor1_dc4_store11_vendor2_dc0
+========================================== Iteration 13 ==========================================
+optimal_value: 20208354.532080803
+route added: dc0_store30_vendor2_dc2_store2_vendor12_store16_vendor18_store23_vendor14_dc0
+========================================== Iteration 14 ==========================================
+optimal_value: 20122300.863786034
+route added: dc0_store25_vendor4_store9_vendor16_dc2_store29_vendor4_store9_vendor6_dc0
+========================================== Iteration 15 ==========================================
+optimal_value: 20077292.78146571
+route added: dc0_store26_vendor18_store23_vendor2_dc2_store29_vendor4_store11_vendor11_dc0
+========================================== Iteration 16 ==========================================
+optimal_value: 19980837.702052142
+route added: dc0_store34_vendor6_store8_vendor13_dc3_store12_vendor19_store2_vendor16_dc0
+========================================== Iteration 17 ==========================================
+optimal_value: 19918488.911039967
+route added: dc0_store19_vendor16_dc2_store2_vendor12_store39_vendor9_store18_vendor9_dc0
+========================================== Iteration 18 ==========================================
+optimal_value: 19841408.246307213
+route added: dc0_store14_vendor12_store16_vendor13_dc3_store12_vendor19_store2_vendor17_dc0
+========================================== Iteration 19 ==========================================
+optimal_value: 19751466.831830014
+route added: dc0_store28_vendor1_dc4_store22_vendor19_store2_vendor3_store0_vendor7_dc0
+========================================== Iteration 20 ==========================================
+optimal_value: 19632127.86693543
+route added: dc0_store30_vendor14_dc2_store11_vendor1_store17_vendor3_store0_vendor7_dc0
+========================================== Iteration 21 ==========================================
+optimal_value: 19534893.591540936
+route added: dc0_store28_vendor14_store19_vendor5_dc4_store11_vendor3_store0_vendor14_dc0
+========================================== Iteration 22 ==========================================
+optimal_value: 19480069.13104298
+route added: dc0_store25_vendor9_store18_vendor18_store23_vendor1_dc2_store25_vendor7_dc0
+========================================== Iteration 23 ==========================================
+optimal_value: 19466052.118248437
+route added: dc0_store35_vendor16_dc2_store2_vendor3_store0_vendor9_store18_vendor15_dc0
+========================================== Iteration 24 ==========================================
+optimal_value: 19443358.70417355
+route added: dc0_store7_vendor19_store2_vendor16_dc2_store25_vendor7_store13_vendor15_dc0
+========================================== Iteration 25 ==========================================
+optimal_value: 19399970.19449389
+route added: dc0_store25_vendor9_store18_vendor9_store18_vendor0_dc2_store28_vendor11_dc0
+========================================== Iteration 26 ==========================================
+optimal_value: 19355004.08443463
+route added: dc0_store14_vendor3_store0_vendor3_store0_vendor14_dc2_store2_vendor16_dc0
+========================================== Iteration 27 ==========================================
+optimal_value: 19308424.249149647
+route added: dc0_store7_vendor18_store23_vendor5_dc3_store12_vendor19_store39_vendor9_dc0
+========================================== Iteration 28 ==========================================
+optimal_value: 19283374.045337416
+route added: dc0_store24_vendor7_store18_vendor7_store18_vendor13_dc3_store12_vendor8_dc0
+========================================== Iteration 29 ==========================================
+optimal_value: 19204637.482221916
+route added: dc0_store24_vendor4_store9_vendor14_store19_vendor5_dc4_store37_vendor17_dc0
+========================================== Iteration 30 ==========================================
+optimal_value: 19174537.15887896
+route added: dc0_store25_vendor6_store8_vendor19_store2_vendor2_dc2_store11_vendor5_dc0
+========================================== Iteration 31 ==========================================
+optimal_value: 19160796.93602276
+route added: dc0_store7_vendor18_store23_vendor5_dc3_store8_vendor18_store23_vendor6_dc0
+========================================== Iteration 32 ==========================================
+optimal_value: 19152952.679220237
+route added: dc0_store14_vendor14_dc2_store29_vendor4_store21_vendor4_store21_vendor6_dc0
+========================================== Iteration 33 ==========================================
+optimal_value: 19144900.304298002
+route added: dc0_store19_vendor5_dc4_store11_vendor12_store16_vendor10_store1_vendor15_dc0
+========================================== Iteration 34 ==========================================
+optimal_value: 19136185.8730946
+route added: dc0_store7_vendor19_store2_vendor16_dc4_store12_vendor19_store2_vendor2_dc0
+========================================== Iteration 35 ==========================================
+optimal_value: 19094618.834411494
+route added: dc0_store13_vendor0_store35_vendor1_dc2_store2_vendor12_store16_vendor9_dc0
+========================================== Iteration 36 ==========================================
+optimal_value: 19063882.844528604
+route added: dc0_store13_vendor0_store35_vendor0_store35_vendor1_dc4_store12_vendor8_dc0
+========================================== Iteration 37 ==========================================
+optimal_value: 19004705.30380352
+route added: dc0_store14_vendor1_store17_vendor16_dc4_store11_vendor1_store17_vendor7_dc0
+========================================== Iteration 38 ==========================================
+optimal_value: 18948565.25837399
+route added: dc0_store7_vendor10_store1_vendor18_store23_vendor5_dc4_store12_vendor8_dc0
+========================================== Iteration 39 ==========================================
+optimal_value: 18919954.473498818
+route added: dc0_store28_vendor14_store19_vendor14_store19_vendor16_dc4_store38_vendor11_dc0
+========================================== Iteration 40 ==========================================
+optimal_value: 18897187.109106764
+route added: dc0_store35_vendor2_dc2_store21_vendor19_store39_vendor7_store13_vendor9_dc0
+========================================== Iteration 41 ==========================================
+optimal_value: 18886112.440250505
+route added: dc0_store1_vendor19_store2_vendor2_dc2_store29_vendor4_store9_vendor11_dc0
+========================================== Iteration 42 ==========================================
+optimal_value: 18871654.785890397
+route added: dc0_store26_vendor6_store8_vendor13_dc3_store32_vendor6_store8_vendor13_dc0
+========================================== Iteration 43 ==========================================
+optimal_value: 18858600.135743905
+route added: dc0_store26_vendor19_store2_vendor16_dc4_store11_vendor3_store0_vendor9_dc0
+========================================== Iteration 44 ==========================================
+optimal_value: 18843779.528658304
+route added: dc0_store26_vendor19_store39_vendor14_dc2_store11_vendor12_store16_vendor19_dc0
+========================================== Iteration 45 ==========================================
+optimal_value: 18829128.51968204
+route added: dc0_store14_vendor2_dc2_store25_vendor7_store13_vendor7_store13_vendor19_dc0
+========================================== Iteration 46 ==========================================
+optimal_value: 18820339.883942857
+route added: dc0_store25_vendor4_store21_vendor4_store11_vendor1_dc3_store12_vendor19_dc0
+========================================== Iteration 47 ==========================================
+optimal_value: 18811769.496121857
+route added: dc0_store24_vendor9_store18_vendor9_store18_vendor0_dc2_store11_vendor5_dc0
+========================================== Iteration 48 ==========================================
+optimal_value: 18802877.3506273
+route added: dc0_store28_vendor12_store39_vendor14_dc2_store2_vendor12_store39_vendor7_dc0
+========================================== Iteration 49 ==========================================
+optimal_value: 18800730.309055414
+route added: dc0_store24_vendor4_store21_vendor4_store11_vendor1_dc2_store2_vendor16_dc0
+========================================== Iteration 50 ==========================================
+optimal_value: 18788705.11722089
+route added: dc0_store34_vendor4_store9_vendor16_dc4_store11_vendor1_store17_vendor14_dc0
+========================================== Iteration 51 ==========================================
+optimal_value: 18783017.803629715
+route added: dc0_store30_vendor4_store9_vendor16_dc4_store37_vendor4_store9_vendor11_dc0
+========================================== Iteration 52 ==========================================
+optimal_value: 18767064.985595558
+route added: dc0_store19_vendor12_store16_vendor18_store23_vendor16_dc4_store12_vendor8_dc0
+========================================== Iteration 53 ==========================================
+optimal_value: 18764239.912479866
+route added: dc0_store7_vendor0_store35_vendor0_store35_vendor14_dc2_store2_vendor2_dc0
+========================================== Iteration 54 ==========================================
+optimal_value: 18755096.474605214
+route added: dc0_store19_vendor5_dc4_store37_vendor4_store21_vendor4_store21_vendor19_dc0
+========================================== Iteration 55 ==========================================
+optimal_value: 18727744.726135246
+route added: dc0_store7_vendor13_dc3_store10_vendor4_store21_vendor4_store21_vendor19_dc0
+========================================== Iteration 56 ==========================================
+optimal_value: 18668961.44305996
+route added: dc0_store13_vendor7_store13_vendor7_store13_vendor15_dc3_store12_vendor8_dc0
+========================================== Iteration 57 ==========================================
+optimal_value: 18652367.076997593
+route added: dc0_store24_vendor0_store35_vendor11_dc1_store11_vendor12_store16_vendor15_dc0
+========================================== Iteration 58 ==========================================
+optimal_value: 18633956.550101098
+route added: dc0_store14_vendor2_dc2_store21_vendor19_store39_vendor19_store39_vendor15_dc0
+========================================== Iteration 59 ==========================================
+optimal_value: 18629371.720867347
+route added: dc0_store14_vendor12_store32_vendor4_store9_vendor16_dc4_store12_vendor8_dc0
+========================================== Iteration 60 ==========================================
+optimal_value: 18592742.992930397
+route added: dc0_store26_vendor19_store39_vendor0_store35_vendor1_dc3_store12_vendor8_dc0
+========================================== Iteration 61 ==========================================
+optimal_value: 18584688.50950192
+route added: dc0_store19_vendor1_dc4_store11_vendor1_store17_vendor0_store35_vendor11_dc0
+========================================== Iteration 62 ==========================================
+optimal_value: 18577343.45851086
+route added: dc0_store34_vendor4_store21_vendor4_store11_vendor1_dc3_store12_vendor8_dc0
+========================================== Iteration 63 ==========================================
+optimal_value: 18562291.89182638
+route added: dc0_store1_vendor18_store23_vendor16_store19_vendor5_dc3_store8_vendor13_dc0
+========================================== Iteration 64 ==========================================
+optimal_value: 18554014.89321599
+route added: dc0_store25_vendor0_store35_vendor1_dc2_store2_vendor3_store0_vendor7_dc0
+========================================== Iteration 65 ==========================================
+optimal_value: 18547122.526425924
+route added: dc0_store30_vendor2_dc2_store29_vendor4_store21_vendor4_store11_vendor1_dc0
+========================================== Iteration 66 ==========================================
+optimal_value: 18544873.86067247
+route added: dc0_store24_vendor9_store18_vendor9_store18_vendor13_dc3_store8_vendor13_dc0
+========================================== Iteration 67 ==========================================
+optimal_value: 18534509.081079174
+route added: dc0_store28_vendor2_dc2_store29_vendor4_store21_vendor6_store8_vendor13_dc0
+========================================== Iteration 68 ==========================================
+optimal_value: 18518512.027011164
+route added: dc0_store1_vendor18_store23_vendor16_dc2_store2_vendor16_store19_vendor5_dc0
+========================================== Iteration 69 ==========================================
+optimal_value: 18510717.89774525
+route added: dc0_store26_vendor19_dc3_store12_vendor10_store1_vendor10_store1_vendor15_dc0
+========================================== Iteration 70 ==========================================
+optimal_value: 18508293.05204414
+route added: dc0_store24_vendor4_store21_vendor4_store11_vendor1_dc2_store2_vendor2_dc0
+========================================== Iteration 71 ==========================================
+optimal_value: 18503674.751961436
+route added: dc0_store14_vendor2_dc2_store11_vendor1_store17_vendor0_store35_vendor11_dc0
+========================================== Iteration 72 ==========================================
+optimal_value: 18499154.03593655
+route added: dc0_store28_vendor14_dc2_store2_vendor3_store0_vendor7_store18_vendor15_dc0
+========================================== Iteration 73 ==========================================
+optimal_value: 18496163.806111358
+route added: dc0_store7_vendor4_store21_vendor4_store11_vendor1_dc4_store11_vendor1_dc0
+========================================== Iteration 74 ==========================================
+optimal_value: 18492080.56903042
+route added: dc0_store26_vendor19_store2_vendor16_dc2_store2_vendor12_store16_vendor13_dc0
+========================================== Iteration 75 ==========================================
+optimal_value: 18489471.443096433
+route added: dc0_store28_vendor14_dc2_store29_vendor4_store21_vendor4_store9_vendor2_dc0
+========================================== Iteration 76 ==========================================
+optimal_value: 18482515.402368292
+route added: dc0_store24_vendor14_store19_vendor5_dc4_store11_vendor3_store0_vendor7_dc0
+========================================== Iteration 77 ==========================================
+optimal_value: 18471411.104515184
+route added: dc0_store30_vendor14_store19_vendor1_dc2_store28_vendor14_store19_vendor5_dc0
+========================================== Iteration 78 ==========================================
+optimal_value: 18470081.778853796
+route added: dc0_store26_vendor19_store2_vendor1_dc4_store11_vendor1_store17_vendor14_dc0
+========================================== Iteration 79 ==========================================
+optimal_value: 18466461.190217853
+route added: dc0_store30_vendor14_dc2_store2_vendor12_store39_vendor9_store18_vendor15_dc0
+========================================== Iteration 80 ==========================================
+optimal_value: 18461009.44986159
+route added: dc0_store1_vendor18_store23_vendor16_store19_vendor1_dc2_store29_vendor17_dc0
+========================================== Iteration 81 ==========================================
+optimal_value: 18455769.684306733
+route added: dc0_store26_vendor19_store2_vendor2_dc2_store29_vendor4_store21_vendor19_dc0
+========================================== Iteration 82 ==========================================
+optimal_value: 18448830.656094376
+route added: dc0_store25_vendor4_store21_vendor4_store9_vendor1_dc4_store11_vendor5_dc0
+========================================== Iteration 83 ==========================================
+optimal_value: 18447224.16072023
+route added: dc0_store26_vendor19_store2_vendor3_store0_vendor14_dc2_store28_vendor11_dc0
+========================================== Iteration 84 ==========================================
+optimal_value: 18442574.40156404
+route added: dc0_store1_vendor18_store23_vendor2_dc2_store11_vendor12_store32_vendor6_dc0
+========================================== Iteration 85 ==========================================
+optimal_value: 18440422.49616059
+route added: dc0_store26_vendor19_dc3_store10_vendor4_store21_vendor4_store21_vendor17_dc0
+========================================== Iteration 86 ==========================================
+optimal_value: 18434587.719377477
+route added: dc0_store14_vendor1_dc2_store29_vendor4_store21_vendor10_store1_vendor15_dc0
+========================================== Iteration 87 ==========================================
+optimal_value: 18427554.362406995
+route added: dc0_store25_vendor4_store21_vendor4_store21_vendor10_dc3_store12_vendor8_dc0
+========================================== Iteration 88 ==========================================
+optimal_value: 18413570.525981233
+route added: dc0_store13_vendor4_store21_vendor4_store11_vendor1_dc3_store8_vendor13_dc0
+========================================== Iteration 89 ==========================================
+optimal_value: 18390763.065085918
+route added: dc0_store34_vendor4_store21_vendor4_store21_vendor10_dc3_store8_vendor13_dc0
+========================================== Iteration 90 ==========================================
+optimal_value: 18383631.20554714
+route added: dc0_store7_vendor4_store21_vendor4_store11_vendor1_dc2_store11_vendor5_dc0
+========================================== Iteration 91 ==========================================
+optimal_value: 18381073.936226953
+route added: dc0_store28_vendor2_dc2_store4_vendor4_store21_vendor10_store1_vendor8_dc0
+========================================== Iteration 92 ==========================================
+optimal_value: 18379806.46740681
+route added: dc0_store7_vendor4_store21_vendor4_store21_vendor19_dc3_store12_vendor8_dc0
+========================================== Iteration 93 ==========================================
+optimal_value: 18373061.13439655
+route added: dc0_store26_vendor10_store1_vendor19_store2_vendor16_dc4_store11_vendor16_dc0
+========================================== Iteration 94 ==========================================
+optimal_value: 18368684.246572576
+route added: dc0_store35_vendor1_dc4_store11_vendor12_store32_vendor6_store8_vendor13_dc0
+========================================== Iteration 95 ==========================================
+optimal_value: 18368038.86751211
+route added: dc0_store26_vendor19_store2_vendor16_dc4_store11_vendor1_store17_vendor2_dc0
+========================================== Iteration 96 ==========================================
+optimal_value: 18366336.304028276
+route added: dc0_store24_vendor4_store21_vendor4_store9_vendor16_dc4_store11_vendor5_dc0
+========================================== Iteration 97 ==========================================
+optimal_value: 18364108.334503096
+route added: dc0_store1_vendor18_store23_vendor16_dc4_store9_vendor3_store0_vendor7_dc0
+========================================== Iteration 98 ==========================================
+optimal_value: 18359213.726553895
+route added: dc0_store26_vendor19_store2_vendor16_store19_vendor5_dc4_store12_vendor8_dc0
+========================================== Iteration 99 ==========================================
+optimal_value: 18351100.218300983
+route added: dc0_store7_vendor4_store21_vendor4_store9_vendor16_dc2_store11_vendor16_dc0
+==================================================================================================
+Found integer solution
+optimization value: 18347400.9935028
